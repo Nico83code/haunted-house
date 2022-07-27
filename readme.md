@@ -1,4 +1,5 @@
-# Three.js Journey
+##Preview
+https://nm-threejs-haunted-house.netlify.app/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
